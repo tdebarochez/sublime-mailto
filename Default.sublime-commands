@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Mailto current file",
+        "command": "mailto"
+    }
+]

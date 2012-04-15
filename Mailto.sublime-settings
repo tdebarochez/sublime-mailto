@@ -1,3 +1,5 @@
 {
+  // %d : current file
+  // %d : current directory
   "command": ["/usr/bin/open", "-a", "mail", "%f"]
 }
